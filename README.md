@@ -1,7 +1,7 @@
 # Diana Deluvian
 ### A MERN stack developer
 
-Hi, I am a trans woman living in Sweden with a passion for SPAs. My professional ambitions are to become a compotent senior developer, able to handle any and
+Hi, I am a trans woman living in Sweden with a passion for SPAs. My professional ambitions are to become a competent senior developer, able to handle any and
 all projects, and deliver sleek, functional products as a result. I am currently looking for an organisation that would help me grow as a developer, and I, in turn,
 help deliver real-world applications at an industry-grade level. 
 
